@@ -82,3 +82,11 @@ M.Janani shree
 ### project completed as part of RISE Internship - Python Programming
 With this project, you can track expenses efficiently, analyze spending habits, and visualize financial data, all from a simple command line interface!
 
+### OUTPUT
+<img width="934" height="1005" alt="Screenshot 2025-08-27 125819" src="https://github.com/user-attachments/assets/9a4e9846-36b7-4f2f-8b89-7de29961659e" />
+<img width="700" height="711" alt="Screenshot 2025-08-27 125852" src="https://github.com/user-attachments/assets/e5b2571d-37e1-401e-8819-33a9385b6f4e" />
+<img width="724" height="500" alt="Screenshot 2025-08-27 130032" src="https://github.com/user-attachments/assets/fd12d904-68d4-4da7-aa8f-5a97eecb7522" />
+
+
+
+
